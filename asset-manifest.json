@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/jayna/static/css/main.31d6cfe0.css",
-    "main.js": "/jayna/static/js/main.c56b31d4.js",
+    "main.css": "/jayna/static/css/main.6dba14b4.css",
+    "main.js": "/jayna/static/js/main.f464004f.js",
     "static/js/453.17100b72.chunk.js": "/jayna/static/js/453.17100b72.chunk.js",
+    "static/media/NightShiftLogo.png": "/jayna/static/media/NightShiftLogo.5b267c01f7e7aa953920.png",
     "index.html": "/jayna/index.html",
-    "main.c56b31d4.js.map": "/jayna/static/js/main.c56b31d4.js.map",
+    "main.6dba14b4.css.map": "/jayna/static/css/main.6dba14b4.css.map",
+    "main.f464004f.js.map": "/jayna/static/js/main.f464004f.js.map",
     "453.17100b72.chunk.js.map": "/jayna/static/js/453.17100b72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.c56b31d4.js"
+    "static/css/main.6dba14b4.css",
+    "static/js/main.f464004f.js"
   ]
 }
