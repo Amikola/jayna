@@ -7,7 +7,7 @@ function App() {
       <header>
         <h1>You have been Jäynä'd</h1>
         <p>By the International and Masters students of Aalto University</p>
-        <p>Sinut on Jäynätty Aalto yliopiston Kansainvälisten ja Maisteri opiskelijoiden toimesta</p>
+        <p>Sinut on Jäynätty Aalto yliopiston kansainvälisten- ja maisteriopiskelijoiden toimesta</p>
         <a href="https://www.jayna.fi/en" target="_blank" rel="noopener noreferrer">
           More info here
         </a>
